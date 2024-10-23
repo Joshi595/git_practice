@@ -11,7 +11,7 @@ class mathematics():
         return f
 
 res = mathematics()
-result = res.addition(5, 6, 7)
+result = res.addition(5, 6, 7, 8)
 product = res.multiplication(8, 6, 7)
 divide = result/product
 
