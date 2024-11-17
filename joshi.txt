@@ -1,2 +1,2 @@
-check branches
+check trees
 that are not updated
