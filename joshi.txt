@@ -1,1 +1,4 @@
 check branches
+check trees
+that are not updated
+and update them 
